@@ -1,0 +1,30 @@
+
+
+# IDEs and editors
+/.idea
+.project
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+
+# Log file
+*.log
+
+# Pycharm IDEs
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# dbs
+db.sqlite3
+
+
+#virtualenv
+ven/
+
